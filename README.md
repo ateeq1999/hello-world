@@ -1,4 +1,3 @@
-# hello-world
-like every repository
-Hi githuber 
+# My Privecy Page
+This is My Term Page
 i like web development 
